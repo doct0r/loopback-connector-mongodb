@@ -2,6 +2,7 @@
 // Node module: loopback-connector-mongodb
 // This file is licensed under the MIT License.
 // License text available at https://opensource.org/licenses/MIT
+// Trigger
 
 'use strict';
 
